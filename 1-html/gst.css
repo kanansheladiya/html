@@ -1,0 +1,49 @@
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+   
+    text-align: center;
+    font-weight: 100;
+    padding: 20px;
+    float: left;
+    
+
+
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a:hover{
+    color: tomato;
+}
+nav a:visited{
+    color: blue;
+}
+.box{
+    height: 150%;
+    width: 150%;
+    text-align: left;
+}
+   
+img{
+    height:50%;
+    width: 50%;
+    im
+    
+
+}
+.main{
+    width: 150px;
+    height: 150px;
+    margin-left: 80%;
+    
+}
+.main{
+    border: 2px solid black;
+    box-sizing: content-box;
+    padding: 30px;
+    
+}
+
